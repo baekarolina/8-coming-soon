@@ -7,7 +7,7 @@
 
 _26 group website project_
 
-This project a student project.
+This is a demo student project.
 
 Site published at https://baekarolina.github.io/8-coming-soon/
 
@@ -15,9 +15,9 @@ Design: [Coming soon](https://cdn.discordapp.com/attachments/648536139677958156/
 
 ## Project features
 
--   responsive design
--   repetitive content is generated/rendered;
--   css animations
+- responsive design
+- repetitive content is generated/rendered;
+- css animations
 
 ## Authors
 
