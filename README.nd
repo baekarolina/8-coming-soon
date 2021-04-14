@@ -3,23 +3,23 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Coming soon
+# Mergaite
 
-_21 group website project_
+_26 group website project_
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This demo project is for educational porpuses only. 
 
-Site published at https://front-end-by-rimantas.github.io/21-grupe-coming-soon/
+Site published at https://baekarolina.github.io/2-mergaite/
 
-Design: [Coming soon](https://cdn.discordapp.com/attachments/648536139677958156/651479019476221953/coming-soon-wide.png)
+Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
 ## Project features
 
--   responsive design
--   repetitive content is generated/rendered;
--   css animations
--   form validations
+- HTML
+- CSS
+- relative paths
+- Github pages
 
 ## Authors
 
-[Rimantas](https://github.com/belauzas)
+[Karolina](https://github.com/baekarolina)
